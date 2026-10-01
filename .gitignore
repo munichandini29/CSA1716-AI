@@ -1,0 +1,8 @@
+# Dataset - too large for GitHub
+data/
+
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
